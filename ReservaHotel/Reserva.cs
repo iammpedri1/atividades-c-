@@ -1,11 +1,4 @@
 namespace reservaHotel;
-
-public class Hospede
-    {
-        public string Nome { get; set; } = "";
-        public string Documento { get; set; } = "";
-    }
-
     public class Reserva
     {
         public Hospede HospedeDaReserva { get; set; } = new Hospede();

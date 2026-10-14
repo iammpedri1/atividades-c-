@@ -12,3 +12,4 @@
 /media/pedroaugusto/Novo volume/atividades-c#/ReservaHotel/obj/Debug/net10.0/ReservaHotel.pdb
 /media/pedroaugusto/Novo volume/atividades-c#/ReservaHotel/obj/Debug/net10.0/ReservaHotel.genruntimeconfig.cache
 /media/pedroaugusto/Novo volume/atividades-c#/ReservaHotel/obj/Debug/net10.0/ref/ReservaHotel.dll
+/media/pedroaugusto/Novo volume/atividades-c#/ReservaHotel/obj/Debug/net10.0/ReservaHotel.sourcelink.json

@@ -1,4 +1,5 @@
-﻿namespace reservaHotel
+﻿using System;
+namespace reservaHotel
 {
     public static class Program
     {
