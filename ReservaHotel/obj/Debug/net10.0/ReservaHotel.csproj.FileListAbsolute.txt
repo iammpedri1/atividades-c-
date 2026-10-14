@@ -1,0 +1,14 @@
+/media/pedroaugusto/Novo volume/atividades-c#/ReservaHotel/bin/Debug/net10.0/ReservaHotel
+/media/pedroaugusto/Novo volume/atividades-c#/ReservaHotel/bin/Debug/net10.0/ReservaHotel.deps.json
+/media/pedroaugusto/Novo volume/atividades-c#/ReservaHotel/bin/Debug/net10.0/ReservaHotel.runtimeconfig.json
+/media/pedroaugusto/Novo volume/atividades-c#/ReservaHotel/bin/Debug/net10.0/ReservaHotel.dll
+/media/pedroaugusto/Novo volume/atividades-c#/ReservaHotel/bin/Debug/net10.0/ReservaHotel.pdb
+/media/pedroaugusto/Novo volume/atividades-c#/ReservaHotel/obj/Debug/net10.0/ReservaHotel.GeneratedMSBuildEditorConfig.editorconfig
+/media/pedroaugusto/Novo volume/atividades-c#/ReservaHotel/obj/Debug/net10.0/ReservaHotel.AssemblyInfoInputs.cache
+/media/pedroaugusto/Novo volume/atividades-c#/ReservaHotel/obj/Debug/net10.0/ReservaHotel.AssemblyInfo.cs
+/media/pedroaugusto/Novo volume/atividades-c#/ReservaHotel/obj/Debug/net10.0/ReservaHotel.csproj.CoreCompileInputs.cache
+/media/pedroaugusto/Novo volume/atividades-c#/ReservaHotel/obj/Debug/net10.0/ReservaHotel.dll
+/media/pedroaugusto/Novo volume/atividades-c#/ReservaHotel/obj/Debug/net10.0/refint/ReservaHotel.dll
+/media/pedroaugusto/Novo volume/atividades-c#/ReservaHotel/obj/Debug/net10.0/ReservaHotel.pdb
+/media/pedroaugusto/Novo volume/atividades-c#/ReservaHotel/obj/Debug/net10.0/ReservaHotel.genruntimeconfig.cache
+/media/pedroaugusto/Novo volume/atividades-c#/ReservaHotel/obj/Debug/net10.0/ref/ReservaHotel.dll
